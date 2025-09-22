@@ -1,3 +1,3 @@
 # Sing-Box
 
-## Config for Sing-Box
+**Config for Sing-Box**
