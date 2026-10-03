@@ -1,0 +1,22 @@
+#由Gemini AI本AI制作
+
+# > Gemini Web & 门户页面
+DOMAIN,gemini.google.com
+DOMAIN,bard.google.com
+DOMAIN,makersuite.google.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,generativeai.google
+
+# > Gemini 核心推理 API & App 通信端点
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,alkalimakersuite-pa.googleapis.com
+DOMAIN,alkalitoday-pa.googleapis.com
+DOMAIN,proactivebackend-pa.googleapis.com
+DOMAIN,aisandbox-pa.googleapis.com
+DOMAIN,waa-pa.googleapis.com
+DOMAIN,geller-pa.googleapis.com
+
+# > 关键字匹配兜底
+DOMAIN-KEYWORD,generativelanguage
+DOMAIN-KEYWORD,alkalimaker
